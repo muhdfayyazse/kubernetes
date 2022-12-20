@@ -1,0 +1,3 @@
+kubectl logs <pod-name> -c <container-name> -----> kubectl logs sidecar-test -c sidecar
+
+kubectl delete pods <pod name> --grace-period=0 --force
