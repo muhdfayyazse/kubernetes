@@ -1,0 +1,15 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: my-job
+spec:
+  template:
+    spec:
+      containers:
+      - name: print
+        image: busybox:stable
+        command: ["echo", "Muhammad Fayyaz"]
+      restartPolicy: Never
+  backoffLimit: 4
+  activeDeadlineSeconds: 10
+
