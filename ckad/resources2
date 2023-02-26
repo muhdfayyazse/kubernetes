@@ -1,0 +1,186 @@
+Ch # 2
+----------------------------------------------
+
+Docker Resource 
+
+# Install Docker Engine on Ubuntu
+https://docs.docker.com/engine/install/ubuntu/
+
+# docker build
+https://docs.docker.com/engine/reference/commandline/build/
+
+# Dockerfile reference
+https://docs.docker.com/engine/reference/builder/
+
+
+
+Kubernetes Resouce 
+
+# Jobs
+https://kubernetes.io/docs/concepts/workloads/controllers/job/
+
+# Cron Jobs
+https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
+
+# Patterns for Composite Containers
+https://kubernetes.io/blog/2015/06/the-distributed-system-toolkit-patterns/
+
+# Resource sharing and communication
+https://kubernetes.io/docs/concepts/workloads/pods/#resource-sharing-and-communication
+
+# Communicate Between Containers in the Same Pod Using a Shared Volume
+https://kubernetes.io/docs/tasks/access-application-cluster/communicate-containers-same-pod-shared-volume/
+
+
+# Init Containers
+https://kubernetes.io/docs/concepts/workloads/pods/init-containers/
+
+# Volumes
+https://kubernetes.io/docs/concepts/storage/volumes/
+
+# Persistent Volumes
+https://kubernetes.io/docs/concepts/storage/persistent-volumes/
+
+
+
+# ch 3
+-------------------------------------------------------------
+
+# Deployments
+https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+
+# Updating a Deployment  
+https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#updating-a-deployment
+
+# Service
+https://kubernetes.io/docs/concepts/services-networking/service/
+
+
+# Installing Helm
+https://helm.sh/docs/intro/install/
+
+
+# Quickstart Guide
+https://helm.sh/docs/intro/quickstart/
+
+# Ch 4
+-----------------------------------------------
+
+# Kubernetes Deprecation Policy
+https://kubernetes.io/docs/reference/using-api/deprecation-policy/
+
+# Deprecated API Migration Guide
+https://kubernetes.io/docs/reference/using-api/deprecation-guide/
+
+# Configure Liveness, Readiness and Startup Probes
+https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/
+
+# Resource metrics pipeline
+https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-metrics-pipeline/
+
+# Tools for Monitoring Resources
+https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-usage-monitoring/
+
+# GIT
+https://github.com/kubernetes-sigs/metrics-server.git
+
+# Logging Architecture
+https://kubernetes.io/docs/concepts/cluster-administration/logging/
+
+# Debug Pods
+https://kubernetes.io/docs/tasks/debug/debug-application/debug-pods/
+
+# Debug Running Pods
+https://kubernetes.io/docs/tasks/debug/debug-application/debug-running-pod/
+
+# Monitoring, Logging, and Debugging
+https://kubernetes.io/docs/tasks/debug/
+
+
+# Ch 5
+-------------------------------------------------------------
+
+# Extend the Kubernetes API with CustomResourceDefinitions
+https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/
+
+# Custom Resources
+https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/
+
+# Configure Service Accounts for Pods
+https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/
+
+# Managing Service Accounts
+https://kubernetes.io/docs/reference/access-authn-authz/service-accounts-admin/
+
+# Using RBAC Authorization
+https://kubernetes.io/docs/reference/access-authn-authz/rbac/
+
+# Authenticating
+https://kubernetes.io/docs/reference/access-authn-authz/authentication/
+
+# Controlling Access to the Kubernetes API
+https://kubernetes.io/docs/concepts/security/controlling-access/
+
+# Using RBAC Authorization
+https://kubernetes.io/docs/reference/access-authn-authz/rbac/
+
+# Admission Controllers Reference
+https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/
+
+# A Guide to Kubernetes Admission Controllers
+https://kubernetes.io/blog/2019/03/21/a-guide-to-kubernetes-admission-controllers/
+
+# Resource Management for Pods and Containers
+https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/
+
+# Assign CPU Resources to Containers and Pods
+https://kubernetes.io/docs/tasks/configure-pod-container/assign-cpu-resource/
+
+# Resource Quotas
+https://kubernetes.io/docs/concepts/policy/resource-quotas/
+
+# ConfigMaps
+https://kubernetes.io/docs/concepts/configuration/configmap/
+
+# Secrets
+https://kubernetes.io/docs/concepts/configuration/secret/
+
+# Configure a Security Context for a Pod or Container
+https://kubernetes.io/docs/tasks/configure-pod-container/security-context/
+
+# Ch 6
+-------------------------------------------------
+
+# Network Policies
+https://kubernetes.io/docs/concepts/services-networking/network-policies/
+
+# Cluster Networking
+https://kubernetes.io/docs/concepts/cluster-administration/networking/
+
+# Service
+https://kubernetes.io/docs/concepts/services-networking/service/
+
+# Ingress
+https://kubernetes.io/docs/concepts/services-networking/ingress/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
